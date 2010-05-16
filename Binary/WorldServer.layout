@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="default" />
+	<File name="..\World Server\Buff.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="1011" topLine="0" />
+	</File>
+	<File name="..\World Server\MainProcess.cpp" open="1" top="1" tabpos="6">
+		<Cursor position="8172" topLine="150" />
+	</File>
+	<File name="..\World Server\Monster.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1038" topLine="0" />
+	</File>
+	<File name="..\World Server\MonsterEvents.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="1135" topLine="0" />
+	</File>
+	<File name="..\World Server\MonsterStats.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="4855" topLine="133" />
+	</File>
+	<File name="..\World Server\ServerFunctions.cpp" open="0" top="0" tabpos="14">
+		<Cursor position="8893" topLine="213" />
+	</File>
+	<File name="..\World Server\WorldServer.h" open="0" top="0" tabpos="7">
+		<Cursor position="18994" topLine="361" />
+	</File>
+	<File name="..\World Server\aip\AiActions.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="32264" topLine="907" />
+	</File>
+	<File name="..\World Server\aip\AiActions.h" open="0" top="0" tabpos="11">
+		<Cursor position="3138" topLine="128" />
+	</File>
+	<File name="..\World Server\aip\AiConditions.h" open="0" top="0" tabpos="12">
+		<Cursor position="3378" topLine="121" />
+	</File>
+	<File name="..\World Server\aip\Aip.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="2431" topLine="45" />
+	</File>
+	<File name="..\World Server\battle.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="7938" topLine="227" />
+	</File>
+	<File name="..\World Server\character.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="3730" topLine="110" />
+	</File>
+	<File name="..\World Server\charevent.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="1040" topLine="0" />
+	</File>
+	<File name="..\World Server\charfunctions.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="8649" topLine="265" />
+	</File>
+	<File name="..\World Server\datatypes.h" open="0" top="0" tabpos="4">
+		<Cursor position="18772" topLine="864" />
+	</File>
+	<File name="..\World Server\gmcmds.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="47193" topLine="1187" />
+	</File>
+	<File name="..\World Server\playerfunctions.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="20082" topLine="642" />
+	</File>
+	<File name="..\World Server\playerstats.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="38023" topLine="1015" />
+	</File>
+	<File name="..\World Server\quest\QuestConditions.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="5657" topLine="153" />
+	</File>
+	<File name="..\World Server\startup.cpp" open="0" top="0" tabpos="15">
+		<Cursor position="20974" topLine="513" />
+	</File>
+	<File name="..\World Server\worldmap.cpp" open="0" top="0" tabpos="13">
+		<Cursor position="1549" topLine="30" />
+	</File>
+	<File name="..\World Server\worldpackets.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="10092" topLine="199" />
+	</File>
+	<File name="..\World Server\worldserver.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="36357" topLine="886" />
+	</File>
+</CodeBlocks_layout_file>
